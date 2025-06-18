@@ -11,7 +11,7 @@ int main () {
         x = x - 1;
         y = y - 1;
         if(ships[x][y] == 1) {
-            cout << "Ooo  a shot My Brother\n" ; 
+            cout << "Ooo  what a shot My Brother\n" ; 
         }
         else
         cout << "Missed My BROTHER\n" ;
