@@ -1,5 +1,5 @@
 // C++ program to demonstrate Standard header files
-
+#include <bits/stdc++.h>
 #include <cmath>
 #include <cstdlib>
 #include <cstring>
